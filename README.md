@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyawguzz&label=Profile%20views&color=0e75b6&style=flat" alt="kyawguzz" /> </p>
 
-- 🔭 I’m currently working on **MDITS**
+- 🔭 I’m currently working on **C3**
 
 - 🌱 I’m currently learning **Python**
 
