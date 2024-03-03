@@ -9,9 +9,10 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **MERN-Stack, React Native**
+- 💬 Ask me about **React, NodeJS, MongoDB, Mongoose, Express **
 
 - 📫 How to reach me **kyawzinhtet7930@gmail.com**
+- 🚀 My website 👉🏻 https://kyawzinhtet.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
