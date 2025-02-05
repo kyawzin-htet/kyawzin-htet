@@ -4,12 +4,11 @@
 <h3 align="center">A passionate full Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyawguzz&label=Profile%20views&color=0e75b6&style=flat" alt="kyawguzz" /> </p>
-
-- 🔭 I’m currently working on **C3**
+<!-- - 🔭 I’m currently working on **C3**
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **React, NodeJS, MongoDB, Mongoose, Express **
+- 💬 Ask me about **React, NodeJS, MongoDB, Mongoose, Express ** -->
 
 - 📫 How to reach me **kyawzinhtet7930@gmail.com**
 - 🚀 My website 👉🏻 https://kyawzinhtet.vercel.app/
